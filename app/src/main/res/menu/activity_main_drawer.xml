@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_acelerometro"
+            android:icon="@drawable/ic_menu_send"
+            android:title="Acelerometro" />
+        <item
+            android:id="@+id/nav_shake"
+            android:icon="@drawable/ic_menu_send"
+            android:title="Shake" />
+        <item
+            android:id="@+id/nav_tts"
+            android:icon="@drawable/ic_menu_send"
+            android:title="Text-To-Speech" />
+        <item
+            android:id="@+id/nav_stt"
+            android:icon="@drawable/ic_menu_send"
+            android:title="Speech-To-Text" />
+    </group>
+
+
+</menu>
